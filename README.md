@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @srishti-23
+- 👋 Hi, I’m Srishti Tiwari
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning React Js
 - ...
